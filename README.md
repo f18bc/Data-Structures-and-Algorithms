@@ -19,4 +19,4 @@
 ## Sorting
 
 ### Binary Search
-1. ![69]
+1. [69](/Algorithms/Sorting/Binary_Search/69.java)
