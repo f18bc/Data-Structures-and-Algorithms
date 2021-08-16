@@ -1,22 +1,22 @@
 # Data Structure
 
-## Array
+### Array
 
-## Linked Lists
+### Linked Lists
 
-## Stack / Queues
+### Stack / Queues
 
-## Graphs
+### Graphs
 
-## Tree
+### Tree
 
-## Heaps
+### Heaps
 
-## Hash Tables
+### Hash Tables
 
 # Algorithms
 
-## Sorting
+### Sorting
 
-### Binary Search
+* **Binary Search**
 1. [69. Sqrt(x)](/Algorithms/Sorting/Binary_Search/69.java)
