@@ -1,6 +1,15 @@
-#
-# Algorithm
+# Data Structure
 
-### Array
+## Array
 
-### Linked List
+## Linked Lists
+
+## Stack / Queues
+
+## Graphs
+
+## Tree
+
+## Heaps
+
+## Hash Tables
