@@ -1,1 +1,6 @@
-# algorithm
+#
+# Algorithm
+
+### Array
+
+### Linked List
