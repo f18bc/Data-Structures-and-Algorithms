@@ -13,3 +13,10 @@
 ## Heaps
 
 ## Hash Tables
+
+# Algorithms
+
+## Sorting
+
+### Binary Search
+1. ![69]
