@@ -28,5 +28,5 @@
   2. [232. Implement Queue using Stacks](/Algorithms/Stack/232.java)
   3. [155. Min Stack](/Algorithms/Stack/155.java)
 
-# Concurrency and Thread
-  1. [1114. Print in Order](/Algorithms/Sorting/Binary_Search/69.java)
+# Concurrency
+  1. [1114. Print in Order](/Concurrency/1114.java)
