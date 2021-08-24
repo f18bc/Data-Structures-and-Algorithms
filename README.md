@@ -16,6 +16,7 @@
 ### Heaps
 
 ### Hash Tables
+  1. [283. Move Zeroes](Data_Structures/Hash_Tables/283.java)
 
 # Algorithms
 
