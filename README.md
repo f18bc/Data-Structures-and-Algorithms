@@ -20,6 +20,10 @@
 
 # Algorithms
 
+### Dynamic Programming
+
+  1. [121. Best Time to Buy and Sell Stock](/Algorithms/Dynamic_Programming/121.java)
+
 ### Sorting
 
 * **Binary Search**
