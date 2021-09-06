@@ -23,6 +23,8 @@
 ### Dynamic Programming
 
   1. [121. Best Time to Buy and Sell Stock](/Algorithms/Dynamic_Programming/121.java)
+  2. [53. Maximum Subarray](/Algorithms/Dynamic_Programming/53.java)
+  3. [70. Climbing Stairs](/Algorithms/Dynamic_Programming/70.java)
 
 ### Sorting
 
