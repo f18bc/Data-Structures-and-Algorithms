@@ -4,6 +4,10 @@
 
 ### Linked Lists
 
+  1. [206. Reverse Linked List](Data_Structures/Linked_Lists/206.java)
+  2. [141. Linked List Cycle](Data_Structures/Linked_Lists/141.java)
+  3. [83. Remove Duplicates from Sorted List](Data_Structures/Linked_Lists/83.java)
+
 ### Stack / Queues
 
 ### Graphs
