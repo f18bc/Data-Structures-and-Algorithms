@@ -16,6 +16,11 @@
 
 * **BFS**
   1. [108. Convert Sorted Array to Binary Search Tree](/Data_Structures/Tree/108.java)
+  2. [226. Invert Binary Tree](/Data_Structures/Tree/226.java)
+  3. [104. Maximum Depth of Binary Tree](/Data_Structures/Tree/104.java)
+  4. [101. Symmetric Tree](/Data_Structures/Tree/101.java)
+  5. [112. Path Sum](/Data_Structures/Tree/112.java)
+  6. [100. Same Tree](/Data_Structures/Tree/100.java)
 
 ### Heaps
 
