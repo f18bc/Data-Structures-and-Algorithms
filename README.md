@@ -9,6 +9,9 @@
   3. [83. Remove Duplicates from Sorted List](Data_Structures/Linked_Lists/83.java)
 
 ### Stack / Queues
+  1. [20. Valid Parentheses](Data_Structures/Stack/20.java)
+  1. [155. Min Stack](Data_Structures/Stack/155.java)
+  1. [232. Implement Queue using Stacks](Data_Structures/Stack/232.java)
 
 ### Graphs
 
