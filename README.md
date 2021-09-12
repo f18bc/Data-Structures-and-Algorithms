@@ -7,6 +7,10 @@
   1. [206. Reverse Linked List](Data_Structures/Linked_Lists/206.java)
   2. [141. Linked List Cycle](Data_Structures/Linked_Lists/141.java)
   3. [83. Remove Duplicates from Sorted List](Data_Structures/Linked_Lists/83.java)
+  4. [234. Palindrome Linked List](Data_Structures/Linked_Lists/234.java)
+  5. [203. Remove Linked List Elements](Data_Structures/Linked_Lists/203.java)
+  6. [237. Delete Node in a Linked List](Data_Structures/Linked_Lists/237.java)
+  7. [876. Middle of the Linked List](Data_Structures/Linked_Lists/876.java)
 
 ### Stack / Queues
   1. [20. Valid Parentheses](Data_Structures/Stack/20.java)
