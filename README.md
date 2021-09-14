@@ -43,6 +43,8 @@
 * **Trie**
 
 ### Heaps
+  1. [1046. Last Stone Weight](Data_Structures/Heap/1046.java)
+  2. [20. Valid Parentheses](Data_Structures/Heap/703.java)
 
 ### Hash Tables
   1. [283. Move Zeroes](Data_Structures/Hash_Tables/283.java)
