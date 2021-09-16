@@ -36,6 +36,11 @@
   3. [101. Symmetric Tree](/Data_Structures/Tree/101.java)
   4. [112. Path Sum](/Data_Structures/Tree/112.java)
   5. [100. Same Tree](/Data_Structures/Tree/100.java)
+  6. [543. Same Tree](/Data_Structures/Tree/543.java)
+  7. [257. Same Tree](/Data_Structures/Tree/257.java)
+  8. [110. Same Tree](/Data_Structures/Tree/110.java)
+  9. [111. Same Tree](/Data_Structures/Tree/111.java)
+  10. [617. Same Tree](/Data_Structures/Tree/617.java)
 
 * **Binary Research Tree**
   1. [108. Convert Sorted Array to Binary Search Tree](/Data_Structures/Tree/108.java)
