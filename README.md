@@ -46,6 +46,8 @@
   1. [108. Convert Sorted Array to Binary Search Tree](/Data_Structures/Tree/108.java)
 
 * **Trie**
+  1. [208. Implement Trie (Prefix Tree)](/Data_Structures/Tree/208.java)
+  2. [720. Longest Word in Dictionary](/Data_Structures/Tree/720.java)
 
 ### Heaps
   1. [1046. Last Stone Weight](Data_Structures/Heap/1046.java)
