@@ -63,6 +63,7 @@
   1. [121. Best Time to Buy and Sell Stock](/Algorithms/Dynamic_Programming/121.java)
   2. [53. Maximum Subarray](/Algorithms/Dynamic_Programming/53.java)
   3. [70. Climbing Stairs](/Algorithms/Dynamic_Programming/70.java)
+  4. [746. Min Cost Climbing Stairs (Best for reviewing both Memorization and Tabulation)](/Algorithms/Dynamic_Programming/746.java)
 
 ### Sorting
 
@@ -70,6 +71,7 @@
   1. [69. Sqrt(x)](/Algorithms/Sorting/Binary_Search/69.java)
   2. [278. First Bad Version](/Algorithms/Sorting/Binary_Search/278.java)
   3. [35. Search Insert Position](/Algorithms/Sorting/Binary_Search/35.java)
+
 
 * **Stack**
   1. [20. Valid Parentheses](/Algorithms/Stack/20.java)
