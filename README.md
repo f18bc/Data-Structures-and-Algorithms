@@ -55,6 +55,8 @@
   1. [283. Move Zeroes](Data_Structures/Hash_Tables/283.java)
 
 # Algorithms
+
+### Bit Operations
   1. [136. Single Number](Bit_Operations/136.java)
   2. [191. Number of 1 Bits](Bit_Operations/136.java)
   3. [169. Majority Element](Bit_Operations/169.java)
