@@ -1,7 +1,5 @@
 # Data Structures
 
-### Array
-
 ### Linked Lists
 
   1. [206. Reverse Linked List](Data_Structures/Linked_Lists/206.java)
