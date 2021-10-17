@@ -24,6 +24,7 @@
 * **BFS**
   1. [127. Word Ladder](/Data_Structures/Graph/BFS/127.java)
   2. [787. Cheapest Flights Within K Stops](/Data_Structures/Graph/BFS/787.java)
+  3. [1293. Shortest Path in a Grid with Obstacles Elimination](/Data_Structures/Graph/BFS/1293.java)
 
 ### Tree
 
