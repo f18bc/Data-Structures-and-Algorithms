@@ -29,6 +29,9 @@
   5. [☆127. Word Ladder](/Data_Structures/Graph/BFS/127.java)
   6. [☆1293. Shortest Path in a Grid with Obstacles Elimination](/Data_Structures/Graph/BFS/1293.java)
 
+* **Topology**
+  1. [☆207. Course Schedule](/Data_Structures/Graph/BFS/Topology.java)
+
 ### Tree
 
 * **Constructing a Binary Tree**
