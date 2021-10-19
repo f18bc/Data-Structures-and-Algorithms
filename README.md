@@ -29,8 +29,9 @@
   5. [☆127. Word Ladder](/Data_Structures/Graph/BFS/127.java)
   6. [☆1293. Shortest Path in a Grid with Obstacles Elimination](/Data_Structures/Graph/BFS/1293.java)
 
-* **Topology**
-  1. [☆207. Course Schedule](/Data_Structures/Graph/BFS/Topology.java)
+* **Topological Sort**
+  1. [☆207. Course Schedule](/Data_Structures/Graph/BFS/Topological_Sort/207.java)
+  1. [☆210. Course Schedule II](/Data_Structures/Graph/BFS/Topological_Sort/210.java)
 
 ### Tree
 
@@ -57,6 +58,7 @@
 * **Trie**
   1. [208. Implement Trie (Prefix Tree)](/Data_Structures/Tree/208.java)
   2. [720. Longest Word in Dictionary](/Data_Structures/Tree/720.java)
+  3. [211. Design Add and Search Words Data Structure](/Data_Structures/Tree/211.java)
 
 ### Heaps
   1. [1046. Last Stone Weight](Data_Structures/Heap/1046.java)
