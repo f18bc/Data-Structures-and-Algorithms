@@ -33,6 +33,13 @@
   1. [☆207. Course Schedule](/Data_Structures/Graph/BFS/Topological_Sort/207.java)
   1. [☆210. Course Schedule II](/Data_Structures/Graph/BFS/Topological_Sort/210.java)
 
+* **Disjoint Sets**
+  1. [☆200. Number of Islands](/Data_Structures/Graph/BFS/Disjoint_Sets/200.java)
+  2. [☆695. Max Area of Island](/Data_Structures/Graph/BFS/Disjoint_Sets/695.java)
+  3. [☆1631. Path With Minimum Effort](/Data_Structures/Graph/BFS/Disjoint_Sets/1631.java)
+
+
+
 ### Tree
 
 * **Constructing a Binary Tree**
