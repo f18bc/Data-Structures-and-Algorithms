@@ -80,6 +80,10 @@
   1. [☆46. Permutations](Algorithms/Backtracking/46.java)
   2. [☆79. Word Search](Algorithms/Backtracking/79.java)
 
+* **Dynamic Programming**
+  1. [☆337. House Robber III](Algorithms/Dynamic_Programming/337.java)
+  2. [☆322. Coin Change](Algorithms/Dynamic_Programming/322.java)
+
 * **Greedy**
   1. [☆264. Ugly Number II](Algorithms/Greedy/264.java)
   2. [☆946. Validate Stack Sequences](Algorithms/Greedy/946.java)
