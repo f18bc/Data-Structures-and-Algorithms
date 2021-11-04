@@ -100,3 +100,4 @@
 
 # Others
   1. [335. Self Crossing](Others/335.java)
+  2. [973. K Closest Points to Origin](Others/973.java)
