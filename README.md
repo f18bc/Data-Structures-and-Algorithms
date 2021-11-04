@@ -21,6 +21,9 @@
 
 ### Graphs
 
+* **DFS**
+  1. [☆695. Max Area of Island](/Data_Structures/Graph/DFS/695.java)
+
 * **BFS**
   1. [☆690. Employee Importance](/Data_Structures/Graph/BFS/690.java)
   2. [☆279. Perfect Squares](/Data_Structures/Graph/BFS/279.java)
@@ -79,6 +82,7 @@
 * **Backtracking**
   1. [☆46. Permutations](Algorithms/Backtracking/46.java)
   2. [☆79. Word Search](Algorithms/Backtracking/79.java)
+  3. [☆216. Combination Sum III](Algorithms/Backtracking/216.java)
 
 * **Dynamic Programming**
   1. [☆337. House Robber III](Algorithms/Dynamic_Programming/337.java)
