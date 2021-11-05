@@ -1,3 +1,7 @@
+# Typical
+  1. [Calculator](Typical/Calculator.java)
+
+
 # Data Structures
 
 ### Linked Lists
