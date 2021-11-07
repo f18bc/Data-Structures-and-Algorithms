@@ -91,6 +91,8 @@
 * **Dynamic Programming**
   1. [☆337. House Robber III](Algorithms/Dynamic_Programming/337.java)
   2. [☆322. Coin Change](Algorithms/Dynamic_Programming/322.java)
+  3. [☆300. Longest Increasing Subsequence](Algorithms/Dynamic_Programming/300.java)
+  4. [☆5. Longest Palindromic Substring](Algorithms/Dynamic_Programming/5.java)
 
 * **Greedy**
   1. [☆264. Ugly Number II](Algorithms/Greedy/264.java)
