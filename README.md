@@ -81,24 +81,27 @@
 ### Hash Tables
   1. [283. Move Zeroes](Data_Structures/Hash_Tables/283.java)
 
+### Cloning
+  1. [☆133. Clone Graph](Data_Structures/Cloning/133.java)
+
 # Algorithms
 
-* **Backtracking**
+### Backtracking
   1. [☆46. Permutations](Algorithms/Backtracking/46.java)
   2. [☆79. Word Search](Algorithms/Backtracking/79.java)
   3. [☆216. Combination Sum III](Algorithms/Backtracking/216.java)
 
-* **Dynamic Programming**
+### Dynamic Programming
   1. [☆337. House Robber III](Algorithms/Dynamic_Programming/337.java)
   2. [☆322. Coin Change](Algorithms/Dynamic_Programming/322.java)
   3. [☆300. Longest Increasing Subsequence](Algorithms/Dynamic_Programming/300.java)
   4. [☆5. Longest Palindromic Substring](Algorithms/Dynamic_Programming/5.java)
 
-* **Greedy**
+### Greedy
   1. [☆264. Ugly Number II](Algorithms/Greedy/264.java)
   2. [☆946. Validate Stack Sequences](Algorithms/Greedy/946.java)
 
-* **Two Pointers**
+### Two Pointers
   1. [☆3. Longest Substring Without Repeating Characters](Algorithms/Two_Pointers/3.java)
 
 # Bit Operations
