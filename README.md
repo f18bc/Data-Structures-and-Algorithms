@@ -1,5 +1,6 @@
 # Typical
   1. [Calculator](Typical/Calculator.java)
+  2. [Morris Traversal](Typical/Morris_Traversal.java)
 
 
 # Data Structures
