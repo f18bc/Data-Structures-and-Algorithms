@@ -97,6 +97,7 @@
   2. [☆322. Coin Change](Algorithms/Dynamic_Programming/322.java)
   3. [☆300. Longest Increasing Subsequence](Algorithms/Dynamic_Programming/300.java)
   4. [☆5. Longest Palindromic Substring](Algorithms/Dynamic_Programming/5.java)
+  5. [☆72. Edit Distance](Algorithms/Dynamic_Programming/72.java)
 
 ### Greedy
   1. [☆264. Ugly Number II](Algorithms/Greedy/264.java)
