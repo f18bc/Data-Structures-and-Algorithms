@@ -28,6 +28,7 @@
 
 * **DFS**
   1. [☆695. Max Area of Island](/Data_Structures/Graph/DFS/695.java)
+  2. [☆130. Surrounded Regions](/Data_Structures/Graph/DFS/130.java)
 
 * **BFS**
   1. [☆690. Employee Importance](/Data_Structures/Graph/BFS/690.java)
