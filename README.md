@@ -16,6 +16,7 @@
   7. [876. Middle of the Linked List](Data_Structures/Linked_Lists/876.java)
 
 ### Stack / Queues
+  1. [☆150. Evaluate Reverse Polish Notation](Data_Structures/Stack/150.java)
 
 * **Basics**
   1. [20. Valid Parentheses](Data_Structures/Stack/20.java)
