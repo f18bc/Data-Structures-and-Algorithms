@@ -80,6 +80,7 @@
 ### Heaps
   1. [1046. Last Stone Weight](Data_Structures/Heap/1046.java)
   2. [20. Valid Parentheses](Data_Structures/Heap/703.java)
+  3. [☆973. K Closest Points to Origin](Data_Structures/Heap/973.java)
 
 ### Hash Tables
   1. [283. Move Zeroes](Data_Structures/Hash_Tables/283.java)
@@ -116,4 +117,3 @@
 
 # Others
   1. [335. Self Crossing](Others/335.java)
-  2. [973. K Closest Points to Origin](Others/973.java)
