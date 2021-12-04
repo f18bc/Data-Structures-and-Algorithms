@@ -49,6 +49,9 @@
   2. [☆695. Max Area of Island](/Data_Structures/Graph/BFS/Disjoint_Sets/695.java)
   3. [☆1631. Path With Minimum Effort](/Data_Structures/Graph/BFS/Disjoint_Sets/1631.java)
 
+* **Bipartite Graph**
+  1. [☆785. Is Graph Bipartite?](/Data_Structures/Graph/Bipartite_Graph/785.java)
+
 
 
 ### Tree
@@ -84,17 +87,17 @@
   3. [☆973. K Closest Points to Origin](Data_Structures/Heap/973.java)
 
 ### Hash Tables
-  1. [283. Move Zeroes](Data_Structures/Hash_Tables/283.java)
+  1. [283. Move Zeroes](/Data_Structures/Hash_Tables/283.java)
 
 ### Cloning
-  1. [☆133. Clone Graph](Data_Structures/Cloning/133.java)
+  1. [☆133. Clone Graph](/Data_Structures/Cloning/133.java)
 
 # Algorithms
 
 ### Backtracking
-  1. [☆46. Permutations](Algorithms/Backtracking/46.java)
-  2. [☆79. Word Search](Algorithms/Backtracking/79.java)
-  3. [☆216. Combination Sum III](Algorithms/Backtracking/216.java)
+  1. [☆46. Permutations](/Algorithms/Backtracking/46.java)
+  2. [☆79. Word Search](/Algorithms/Backtracking/79.java)
+  3. [☆216. Combination Sum III](/Algorithms/Backtracking/216.java)
 
 ### Dynamic Programming
   1. [☆337. House Robber III](Algorithms/Dynamic_Programming/337.java)
