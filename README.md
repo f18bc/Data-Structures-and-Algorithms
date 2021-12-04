@@ -1,7 +1,7 @@
 # Typical
   1. [Calculator](Typical/Calculator.java)
   2. [Morris Traversal](Typical/Morris_Traversal.java)
-  3. [Comparator](Typical/937.java)
+  
 
 
 # Data Structures
@@ -118,3 +118,6 @@
 
 # Others
   1. [335. Self Crossing](Others/335.java)
+
+### Comparator
+  1. [937. Reorder Data in Log Files](Others/Comparator/937.java)
