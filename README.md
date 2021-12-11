@@ -81,6 +81,9 @@
   2. [720. Longest Word in Dictionary](/Data_Structures/Tree/720.java)
   3. [211. Design Add and Search Words Data Structure](/Data_Structures/Tree/211.java)
 
+* **Segment Tree / Binary Indexed Tree**
+  1. [☆307. Range Sum Query - Mutable](/Data_Structures/Tree/307.java)
+
 ### Heaps
   1. [1046. Last Stone Weight](Data_Structures/Heap/1046.java)
   2. [20. Valid Parentheses](Data_Structures/Heap/703.java)
