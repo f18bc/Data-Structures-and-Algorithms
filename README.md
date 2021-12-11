@@ -127,3 +127,6 @@
 
 ### Comparator
   1. [937. Reorder Data in Log Files](Others/Comparator/937.java)
+
+# Object Oriented Design
+  1. [☆355. Design Twitter](Object_Oriented_Design/355.java)
