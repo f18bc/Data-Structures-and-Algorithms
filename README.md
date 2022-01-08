@@ -123,6 +123,9 @@
   3. [169. Majority Element](Bit_Operations/169.java)
   4. [190. Reverse Bits](Bit_Operations/190.java)
 
+# Math
+  1. [149. Max Points on a Line](Math/149.java)
+
 # Others
   1. [335. Self Crossing](Others/335.java)
 
