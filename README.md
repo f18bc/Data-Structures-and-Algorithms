@@ -10,22 +10,17 @@
 ### Linked Lists
 
   1. [206. Reverse Linked List](Data_Structures/Linked_Lists/206.java)
-  2. [141. Linked List Cycle](Data_Structures/Linked_Lists/141.java)
-  3. [83. Remove Duplicates from Sorted List](Data_Structures/Linked_Lists/83.java)
-  4. [234. Palindrome Linked List](Data_Structures/Linked_Lists/234.java)
-  5. [203. Remove Linked List Elements](Data_Structures/Linked_Lists/203.java)
-  6. [237. Delete Node in a Linked List](Data_Structures/Linked_Lists/237.java)
-  7. [876. Middle of the Linked List](Data_Structures/Linked_Lists/876.java)
+  2. [234. Palindrome Linked List](Data_Structures/Linked_Lists/234.java)
 
 ### Stack / Queues
-  1. [150. Evaluate Reverse Polish Notation](Data_Structures/Stack/150.java)
 
 * **Basics**
-  1. [20. Valid Parentheses](Data_Structures/Stack/20.java)
-  2. [155. Min Stack](Data_Structures/Stack/155.java)
-  3. [232. Implement Queue using Stacks](Data_Structures/Stack/232.java)
+  1. [155. Min Stack](Data_Structures/Stack_Queue/155.java)
+  2. [232. Implement Queue using Stacks](Data_Structures/Stack_Queue/232.java)
+  3. [150. Evaluate Reverse Polish Notation](Data_Structures/Stack_Queue/150.java)
 
 * **Monotone Stack**
+  1. [739. Daily Temperatures](Data_Structures/Stack_Queue/739.java)
 
 ### Graphs
 
@@ -34,9 +29,9 @@
   2. [210. Course Schedule II](/Data_Structures/Graph/BFS/Topological_Sort/210.java)
 
 * **Disjoint Sets**
-  1. [200. Number of Islands](/Data_Structures/Graph/BFS/Disjoint_Sets/200.java)
-  2. [695. Max Area of Island](/Data_Structures/Graph/BFS/Disjoint_Sets/695.java)
-  3. [1631. Path With Minimum Effort](/Data_Structures/Graph/BFS/Disjoint_Sets/1631.java)
+  1. [200. Number of Islands](/Data_Structures/Graph/Disjoint_Sets/200.java)
+  2. [695. Max Area of Island](/Data_Structures/Graph/Disjoint_Sets/695.java)
+  3. [1631. Path With Minimum Effort](/Data_Structures/Graph/Disjoint_Sets/1631.java)
 
 * **Bipartite Graph**
   1. [785. Is Graph Bipartite?](/Data_Structures/Graph/Bipartite_Graph/785.java)
@@ -81,8 +76,7 @@
 ### Hash Tables
   1. [283. Move Zeroes](/Data_Structures/Hash_Tables/283.java)
 
-### Cloning
-  1. [133. Clone Graph](/Data_Structures/Cloning/133.java)
+
 
 
 
@@ -167,6 +161,9 @@
 
 
 # Others
+
 ### Comparator
   1. [937. Reorder Data in Log Files](Others/Comparator/937.java)
 
+### Cloning
+  1. [133. Clone Graph](Others/Cloning/133.java)
