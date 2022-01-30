@@ -22,28 +22,16 @@
 
 * **Basics**
   1. [20. Valid Parentheses](Data_Structures/Stack/20.java)
-  1. [155. Min Stack](Data_Structures/Stack/155.java)
-  1. [232. Implement Queue using Stacks](Data_Structures/Stack/232.java)
+  2. [155. Min Stack](Data_Structures/Stack/155.java)
+  3. [232. Implement Queue using Stacks](Data_Structures/Stack/232.java)
 
 * **Monotone Stack**
 
 ### Graphs
 
-* **DFS**
-  1. [☆695. Max Area of Island](/Data_Structures/Graph/DFS/695.java)
-  2. [☆130. Surrounded Regions](/Data_Structures/Graph/DFS/130.java)
-
-* **BFS**
-  1. [☆690. Employee Importance](/Data_Structures/Graph/BFS/690.java)
-  2. [☆279. Perfect Squares](/Data_Structures/Graph/BFS/279.java)
-  3. [☆130. Surrounded Regions](/Data_Structures/Graph/BFS/130.java)
-  4. [☆787. Cheapest Flights Within K Stops](/Data_Structures/Graph/BFS/787.java)
-  5. [☆127. Word Ladder](/Data_Structures/Graph/BFS/127.java)
-  6. [☆1293. Shortest Path in a Grid with Obstacles Elimination](/Data_Structures/Graph/BFS/1293.java)
-
 * **Topological Sort**
   1. [☆207. Course Schedule](/Data_Structures/Graph/BFS/Topological_Sort/207.java)
-  1. [☆210. Course Schedule II](/Data_Structures/Graph/BFS/Topological_Sort/210.java)
+  2. [☆210. Course Schedule II](/Data_Structures/Graph/BFS/Topological_Sort/210.java)
 
 * **Disjoint Sets**
   1. [☆200. Number of Islands](/Data_Structures/Graph/BFS/Disjoint_Sets/200.java)
@@ -109,7 +97,19 @@
 
 ### Search
 
-#### Backtracking
+* **DFS**
+  1. [☆695. Max Area of Island](Algorithms/Search/DFS/695.java)
+  2. [☆130. Surrounded Regions](Algorithms/Search/DFS/130.java)
+
+* **BFS**
+  1. [☆690. Employee Importance](Algorithms/Search/BFS/690.java)
+  2. [☆279. Perfect Squares](Algorithms/Search/BFS/279.java)
+  3. [☆130. Surrounded Regions](Algorithms/Search/BFS/130.java)
+  4. [☆787. Cheapest Flights Within K Stops](Algorithms/Search/BFS/787.java)
+  5. [☆127. Word Ladder](Algorithms/Search/BFS/127.java)
+  6. [☆1293. Shortest Path in a Grid with Obstacles Elimination](Algorithms/Search/Graph/BFS/1293.java)
+
+* **Backtracking**
   1. [☆46. Permutations](/Algorithms/Backtracking/46.java)
   2. [☆79. Word Search](/Algorithms/Backtracking/79.java)
   3. [☆216. Combination Sum III](/Algorithms/Backtracking/216.java)
@@ -126,17 +126,15 @@
   1. [☆264. Ugly Number II](Algorithms/Greedy/264.java)
   2. [☆946. Validate Stack Sequences](Algorithms/Greedy/946.java)
 
-
+### Math
+  1. [149. Max Points on a Line](Algorithms/Math/149.java)
+  2. [335. Self Crossing](Algorithms/Math/335.java)
 
 ### Bit Operations
   1. [136. Single Number](Algorithms/Bit_Operations/136.java)
   2. [191. Number of 1 Bits](Algorithms/Bit_Operations/136.java)
   3. [169. Majority Element](Algorithms/Bit_Operations/169.java)
   4. [190. Reverse Bits](Algorithms/Bit_Operations/190.java)
-
-### Math
-  1. [149. Max Points on a Line](Algorithms/Math/149.java)
-  2. [335. Self Crossing](Algorithms/Math/335.java)
 
 
 
