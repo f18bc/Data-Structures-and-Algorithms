@@ -87,7 +87,7 @@
 
 ### Heaps
   1. [1046. Last Stone Weight](Data_Structures/Heap/1046.java)
-  2. [20. Valid Parentheses](Data_Structures/Heap/703.java)
+  2. [703. Kth Largest Element in a Stream](Data_Structures/Heap/703.java)
   3. [☆973. K Closest Points to Origin](Data_Structures/Heap/973.java)
 
 ### Hash Tables
@@ -100,7 +100,16 @@
 
 # Algorithms
 
-### Backtracking
+### Two Pointers
+  1. [☆3. Longest Substring Without Repeating Characters](Algorithms/Two_Pointers/3.java)
+
+### Binary Search
+
+### Sort
+
+### Search
+
+#### Backtracking
   1. [☆46. Permutations](/Algorithms/Backtracking/46.java)
   2. [☆79. Word Search](/Algorithms/Backtracking/79.java)
   3. [☆216. Combination Sum III](/Algorithms/Backtracking/216.java)
@@ -117,8 +126,7 @@
   1. [☆264. Ugly Number II](Algorithms/Greedy/264.java)
   2. [☆946. Validate Stack Sequences](Algorithms/Greedy/946.java)
 
-### Two Pointers
-  1. [☆3. Longest Substring Without Repeating Characters](Algorithms/Two_Pointers/3.java)
+
 
 ### Bit Operations
   1. [136. Single Number](Algorithms/Bit_Operations/136.java)
