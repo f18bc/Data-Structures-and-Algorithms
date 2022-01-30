@@ -1,7 +1,8 @@
 # Typical
   1. [Calculator](Typical/Calculator.java)
   2. [Morris Traversal](Typical/Morris_Traversal.java)
-  2. [Iterative Traversal](Typical/Iterative_Traversal.java)
+  3. [Iterative Traversal](Typical/Iterative_Traversal.java)
+
 
 
 # Data Structures
@@ -95,6 +96,8 @@
 ### Cloning
   1. [☆133. Clone Graph](/Data_Structures/Cloning/133.java)
 
+
+
 # Algorithms
 
 ### Backtracking
@@ -117,20 +120,24 @@
 ### Two Pointers
   1. [☆3. Longest Substring Without Repeating Characters](Algorithms/Two_Pointers/3.java)
 
-# Bit Operations
-  1. [136. Single Number](Bit_Operations/136.java)
-  2. [191. Number of 1 Bits](Bit_Operations/136.java)
-  3. [169. Majority Element](Bit_Operations/169.java)
-  4. [190. Reverse Bits](Bit_Operations/190.java)
+### Bit Operations
+  1. [136. Single Number](Algorithms/Bit_Operations/136.java)
+  2. [191. Number of 1 Bits](Algorithms/Bit_Operations/136.java)
+  3. [169. Majority Element](Algorithms/Bit_Operations/169.java)
+  4. [190. Reverse Bits](Algorithms/Bit_Operations/190.java)
 
-# Math
-  1. [149. Max Points on a Line](Math/149.java)
+### Math
+  1. [149. Max Points on a Line](Algorithms/Math/149.java)
+  2. [335. Self Crossing](Algorithms/Math/335.java)
 
-# Others
-  1. [335. Self Crossing](Others/335.java)
 
-### Comparator
-  1. [937. Reorder Data in Log Files](Others/Comparator/937.java)
 
 # Object Oriented Design
   1. [☆355. Design Twitter](Object_Oriented_Design/355.java)
+
+
+
+# Others
+### Comparator
+  1. [937. Reorder Data in Log Files](Others/Comparator/937.java)
+
