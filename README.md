@@ -1,7 +1,7 @@
 # Typical
   1. [Calculator](Typical/Calculator.java)
   2. [Morris Traversal](Typical/Morris_Traversal.java)
-  
+  2. [Iterative Traversal](Typical/Iterative_Traversal.java)
 
 
 # Data Structures
@@ -122,6 +122,9 @@
   2. [191. Number of 1 Bits](Bit_Operations/136.java)
   3. [169. Majority Element](Bit_Operations/169.java)
   4. [190. Reverse Bits](Bit_Operations/190.java)
+
+# Math
+  1. [149. Max Points on a Line](Math/149.java)
 
 # Others
   1. [335. Self Crossing](Others/335.java)
