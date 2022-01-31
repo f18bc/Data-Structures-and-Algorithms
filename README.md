@@ -93,8 +93,7 @@
 * **Sliding Window**
   1. [76. Minimum Window Substring](Algorithms/Two_Pointers/76.java)
 
-* **Prefix Sum**
-  1. [238. Product of Array Except Self](Algorithms/Two_Pointers/238.java)  
+
 
 * **Cycle Finding**
   1. [142. Linked List Cycle II](Algorithms/Two_Pointers/142.java)
@@ -109,6 +108,11 @@
 
 * **Search max**
 1. [875. Koko Eating Bananas](Algorithms/Binary_Search/875.java)
+
+### Interval Sum
+
+* **Prefix Sum**
+  1. [238. Product of Array Except Self](Algorithms/Interval_Sum/238.java)  
 
 ### Sort
 
