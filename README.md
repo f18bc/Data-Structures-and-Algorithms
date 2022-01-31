@@ -65,9 +65,6 @@
   2. [720. Longest Word in Dictionary](/Data_Structures/Tree/720.java)
   3. [211. Design Add and Search Words Data Structure](/Data_Structures/Tree/211.java)
 
-* **Segment Tree / Binary Indexed Tree**
-  1. [307. Range Sum Query - Mutable](/Data_Structures/Tree/307.java)
-
 ### Heaps
   1. [1046. Last Stone Weight](Data_Structures/Heap/1046.java)
   2. [703. Kth Largest Element in a Stream](Data_Structures/Heap/703.java)
@@ -109,10 +106,19 @@
 * **Search max**
 1. [875. Koko Eating Bananas](Algorithms/Binary_Search/875.java)
 
-### Interval Sum
+### Range Sum
 
 * **Prefix Sum**
-  1. [238. Product of Array Except Self](Algorithms/Interval_Sum/238.java)  
+  1. [238. Product of Array Except Self](Algorithms/Interval_Sum/238.java)
+
+* **Difference**
+  1. [1109. Corporate Flight Bookings](Algorithms/Interval_Sum/1109.java)
+
+* **Binary Index Tree**
+  1. [307. Range Sum Query - Mutable](Algorithms/Interval_Sum/307.java)
+
+* **Segment Tree**
+  1. [1109. Corporate Flight Bookings](Algorithms/Interval_Sum/1109.java)
 
 ### Sort
 

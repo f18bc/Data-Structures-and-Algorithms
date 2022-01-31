@@ -1,11 +1,14 @@
 // Binary Indexed Tree
 class NumArray {
+    // Time O(nlogn)
+    // Space O(n)
     int[] tree;
     int[] nums;
     int n;
     public int lowbit(int x) {
         return x & -x;
     }
+    // Time O(logn)
     public int query(int x) {
         int ans = 0;
         for (int i = x; i > 0; i -= lowbit(i)) {
@@ -13,6 +16,7 @@ class NumArray {
         }
         return ans;
     }
+    // Time O(logn)
     public void add(int x, int u) {
         for (int i = x; i <= n; i += lowbit(i)) {
             tree[i] += u;
