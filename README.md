@@ -156,6 +156,7 @@
 ### Math
   1. [149. Max Points on a Line](Algorithms/Math/149.java)
   2. [335. Self Crossing](Algorithms/Math/335.java)
+  3. [31. Next Permutation](Algorithms/Math/31.java)
 
 ### Bit Operations
   1. [136. Single Number](Algorithms/Bit_Operations/136.java)
