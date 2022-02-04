@@ -22,6 +22,9 @@
 * **Monotone Stack**
   1. [739. Daily Temperatures](Data_Structures/Stack_Queue/739.java)
 
+* **Deque**
+  1. [239. Sliding Window Maximum](Data_Structures/Stack_Queue/239.java)
+
 ### Graphs
 
 * **Topological Sort**
@@ -36,7 +39,8 @@
 * **Bipartite Graph**
   1. [785. Is Graph Bipartite?](/Data_Structures/Graph/Bipartite_Graph/785.java)
 
-
+* **Eulerian Path**
+  1. [332. Reconstruct Itinerary](/Data_Structures/Graph/Eulerian_Path/332.java)
 
 ### Tree
 
@@ -77,6 +81,7 @@
 
 ### Hash Tables
   1. [283. Move Zeroes](/Data_Structures/Hash_Tables/283.java)
+  2. [128. Longest Consecutive Sequence](/Data_Structures/Hash_Tables/128.java)
 
 
 
@@ -147,21 +152,44 @@
   3. [216. Combination Sum III](/Algorithms/Backtracking/216.java)
 
 ### Dynamic Programming
-  1. [337. House Robber III](Algorithms/Dynamic_Programming/337.java)
-  2. [322. Coin Change](Algorithms/Dynamic_Programming/322.java)
-  3. [300. Longest Increasing Subsequence](Algorithms/Dynamic_Programming/300.java)
-  4. [5. Longest Palindromic Substring](Algorithms/Dynamic_Programming/5.java)
-  5. [72. Edit Distance](Algorithms/Dynamic_Programming/72.java)
-  6. [650. 2 Keys Keyboard](Algorithms/Dynamic_Programming/650.java)
+
+* **Recursion (Linear)**
+  1. [72. Edit Distance](Algorithms/Dynamic_Programming/72.java)
+  2. [337. House Robber III](Algorithms/Dynamic_Programming/337.java)
+  3. [650. 2 Keys Keyboard](Algorithms/Dynamic_Programming/650.java)
+  4. [10. Regular Expression Matching](Algorithms/Dynamic_Programming/10.java)
+
+* **Knapsack**
+  1. [322. Coin Change](Algorithms/Dynamic_Programming/322.java)
+
+* **LIS (Longest Increasing Subsequence)**
+  1. [300. Longest Increasing Subsequence](Algorithms/Dynamic_Programming/300.java)
+
+* **LCS**
+  
+* **Range DP**
+
+* **State Compression**
+  1. [188. Best Time to Buy and Sell Stock IV](Algorithms/Dynamic_Programming/188.java)
+
+* **Finite-state machine**
+  1. [309. Best Time to Buy and Sell Stock with Cooldown](Algorithms/Dynamic_Programming/309.java)
+
 
 ### Greedy
   1. [264. Ugly Number II](Algorithms/Greedy/264.java)
   2. [946. Validate Stack Sequences](Algorithms/Greedy/946.java)
 
+### Divide and Conquer
+  1. [241. Different Ways to Add Parentheses](Algorithms/Divide_and_Conquer/241.java)
+
 ### Math
   1. [149. Max Points on a Line](Algorithms/Math/149.java)
   2. [335. Self Crossing](Algorithms/Math/335.java)
   3. [31. Next Permutation](Algorithms/Math/31.java)
+  3. [204. Count Primes](Algorithms/Math/204.java)
+  4. [382. Linked List Random Node (Reservoir Sampling)](Algorithms/Math/382.java)
+  5. [384. Shuffle an Array (Fisher-Yates)](Algorithms/Math/384.java)
 
 ### Bit Operations
   1. [136. Single Number](Algorithms/Bit_Operations/136.java)
