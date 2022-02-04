@@ -41,7 +41,9 @@
 ### Tree
 
 * **Constructing a Binary Tree**
-  1. [108. Convert Sorted Array to Binary Search Tree](/Data_Structures/Tree/108.java)
+  1. [105. Construct Binary Tree from Preorder and Inorder Traversal](/Data_Structures/Tree/105.java)
+  2. [106. Construct Binary Tree from Inorder and Postorder Traversal](/Data_Structures/Tree/106.java)
+  3. [889. Construct Binary Tree from Preorder and Postorder Traversal](/Data_Structures/Tree/889.java)
 
 * **Looping Through a Binary Tree**
 
@@ -58,6 +60,9 @@
   10. [617. Merge Two Binary Trees](/Data_Structures/Tree/617.java)
 
 * **Binary Research Tree**
+  1. [108. Convert Sorted Array to Binary Search Tree](/Data_Structures/Tree/108.java)
+
+* **Constructing a Binary Search Tree**
   1. [108. Convert Sorted Array to Binary Search Tree](/Data_Structures/Tree/108.java)
 
 * **Trie**
