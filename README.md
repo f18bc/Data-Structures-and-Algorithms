@@ -171,8 +171,9 @@
 
 
 
-# Object Oriented Design
-  1. [355. Design Twitter](Object_Oriented_Design/355.java)
+# Design
+  1. [146. LRU Cache](Design/146.java)
+  2. [355. Design Twitter](Design/355.java)
 
 
 
