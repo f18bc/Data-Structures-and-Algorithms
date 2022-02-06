@@ -201,7 +201,8 @@
 
 # Design
   1. [146. LRU Cache](Design/146.java)
-  2. [355. Design Twitter](Design/355.java)
+  2. [460. LFU Cache](Design/460.java)
+  3. [355. Design Twitter](Design/355.java)
 
 
 
