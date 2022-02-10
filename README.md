@@ -119,16 +119,16 @@
 ### Range Sum
 
 * **Prefix Sum**
-  1. [238. Product of Array Except Self](Algorithms/Interval_Sum/238.java)
+  1. [238. Product of Array Except Self](Algorithms/Range_Sum/238.java)
 
 * **Difference**
-  1. [1109. Corporate Flight Bookings](Algorithms/Interval_Sum/1109.java)
+  1. [1109. Corporate Flight Bookings](Algorithms/Range_Sum/1109.java)
 
 * **Binary Index Tree**
-  1. [307. Range Sum Query - Mutable](Algorithms/Interval_Sum/307.java)
+  1. [307. Range Sum Query - Mutable](Algorithms/Range_Sum/307.java)
 
 * **Segment Tree**
-  1. [1109. Corporate Flight Bookings](Algorithms/Interval_Sum/1109.java)
+  1. [1109. Corporate Flight Bookings](Algorithms/Range_Sum/1109.java)
 
 ### Sort
 
