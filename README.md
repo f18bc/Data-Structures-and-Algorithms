@@ -166,7 +166,8 @@
   1. [300. Longest Increasing Subsequence](Algorithms/Dynamic_Programming/300.java)
 
 * **LCS**
-  
+  1. [1143. Longest Common Subsequence](Algorithms/Dynamic_Programming/1143.java)
+
 * **Range DP**
 
 * **State Compression**
