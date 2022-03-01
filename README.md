@@ -40,7 +40,10 @@
   1. [785. Is Graph Bipartite?](/Data_Structures/Graph/Bipartite_Graph/785.java)
 
 * **Eulerian Path**
-  1. [332. Reconstruct Itinerary](/Data_Structures/Graph/Eulerian_Path/332.java)
+  1. [332. Reconstruct Itinerary](/Data_Structures/Graph/Others/332.java)
+
+* **Tarjan**
+  1. [1192. Critical Connections in a Network](/Data_Structures/Graph/Others/1192.java)
 
 ### Tree
 
