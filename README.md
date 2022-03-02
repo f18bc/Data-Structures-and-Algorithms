@@ -45,6 +45,9 @@
 * **Tarjan**
   1. [1192. Critical Connections in a Network](/Data_Structures/Graph/Others/1192.java)
 
+* **A star**
+  1. [1192. Critical Connections in a Network](/Data_Structures/Graph/Others/773.java)
+
 ### Tree
 
 * **Constructing a Binary Tree**
